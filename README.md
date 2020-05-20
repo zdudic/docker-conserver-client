@@ -1,3 +1,2 @@
-
-Dockerized conserver client
+Dockerized conserver client.
 
