@@ -1,3 +1,3 @@
 
-Docker stuff
+Dockerized conserver client
 
